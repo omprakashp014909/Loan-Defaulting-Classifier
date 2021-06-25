@@ -2,7 +2,7 @@
 
 ---
 
-Loaded a historical dataset from previous loan applications, cleaned the data, and applied different classification algorithm on the dataset.
+Loaded a historical dataset from previous loan applications containing 346 rows and 10 columns, cleaned the data, and applied different classification algorithm on the dataset.
 The results is reported as the accuracy of each classifier, using the following metrics when these are applicable:
 * Jaccard index
 * F1-score
