@@ -8,7 +8,7 @@ The results is reported as the accuracy of each classifier, using the following 
 * F1-score
 * LogLoss
 
---
+---
 
 ## Report
 
